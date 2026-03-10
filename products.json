@@ -1,5 +1,16 @@
 [
   {
+    "id": 1773171212407,
+    "name": "اسوارة كوبل",
+    "price": "25000",
+    "img": "https://cdn.jsdelivr.net/gh/AdVax/novoloop@main/images/img_1773171198276_9033.webp",
+    "desc": "",
+    "old_price": "",
+    "badge_text": "",
+    "cat": "",
+    "is_offer": false
+  },
+  {
     "id": 1773161212156,
     "name": "سنسال الغيمة🩷",
     "price": "30000",
